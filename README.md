@@ -1,6 +1,6 @@
 # 3Di Modbus Tool
 
-Ferramenta para testar variáveis Modbus (RTU serial e TCP/IP), com interface no estilo do Modbus Poll e descoberta automática da configuração de dispositivos RTU.
+Ferramenta para testar variáveis Modbus (RTU serial e TCP/IP), com interface e descoberta automática da configuração de dispositivos RTU.
 
 ## Como usar
 

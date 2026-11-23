@@ -1,0 +1,11 @@
+# Gerados em uso (podem conter IPs/portas de clientes)
+ultima_sessao.json
+workspaces/
+
+
+# Python / ferramentas
+__pycache__/
+*.pyc
+.venv/
+venv/
+.claude/
